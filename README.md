@@ -1,4 +1,4 @@
-# 499B-Project
+# 499B Senior Design Project
 
 ## Integrated Industrial Monitoring and Protection System
 
@@ -9,3 +9,4 @@ This was the impetus for us to delve into the problem to tackle from its root an
 In our endeavor to look into the solutions we have also delved on the health aspect as well. From field monitoring conducted by a team from BUET, it was observed that production spaces in Readymade Garments (RMG) were adversely impacted by excessively hot indoor environments, and yet thousands of workers toiling away their days doing production work-in these spaces. Such excessive indoor temperatures, much higher than the worker’s normal body temperature, have an adverse impact on physiological conditions potentially leading health risks. 
 
 This has been an often-overlooked issue and often leads to unreported productivity loss in form of sick leave and other latent health effects. So, using extrapolated WGBT modeling we were able to device a monitoring system that would be able to report worker discomfort and also automatically regulate the indoor temperature by adjusting ventilation setting. 
+
