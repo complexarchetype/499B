@@ -9,3 +9,10 @@ In our endeavor to look into the solutions we have also delved on the health asp
 
 This has been an often-overlooked issue and often leads to unreported productivity loss in form of sick leave and other latent health effects. So, using extrapolated WGBT modeling we were able to device a monitoring system that would be able to report worker discomfort and also automatically regulate the indoor temperature by adjusting ventilation setting. 
 
+It has been a great endeavor for us from the inception of our project leading to its prototype phase. Throughout the journey we have encountered
+
+We have strived to devise a cost-effective solution by devising a model that can integrate various safety features into an all-in-one package. There have rarely been any solutions in our country that offers the same concept as ours. 
+
+Thus, the primary goal of our project was to present a prototype model based on our conceptual idea of an integrated industrial monitoring system. Despite the limitations of our mockup we have successfully demonstrated the proposed features. In real life scenario further tuning of WBGT measurements using our algorithm should help us to achieve our goal. We strongly believe that large scale implementation of our project in the wider industry of this country could bring a considerable positive change in working condition of workers in vital industry such as RMG.
+
+
