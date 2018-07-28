@@ -11,11 +11,11 @@ This has been an often-overlooked issue and often leads to unreported productivi
 
 ## Serial Monitor Logs
 
-![alt text](https://raw.githubusercontent.com/SaifAhmedChowdhury/499B-Senior-Design-Project/blob/master/images/serial_logs.png
+![alt text](https://raw.githubusercontent.com/SaifAhmedChowdhury/499B-Senior-Design-Project/blob/master/images/serial_logs.png)
 
 ## Mobile Text Alert
 
-![alt text](https://raw.githubusercontent.com/SaifAhmedChowdhury/499B-Senior-Design-Project/blob/master/images/mob_txt.png
+![alt text](https://raw.githubusercontent.com/SaifAhmedChowdhury/499B-Senior-Design-Project/blob/master/images/mob_txt.png)
 
 
 
