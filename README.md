@@ -1,4 +1,6 @@
 
+# This repository contains the Project
+
 # Integrated Industrial Monitoring and Protection System
 
 In Bangladesh industry hazard and worker safety has increasingly become a paramount issue. The recent debacle of Tazreen Garments, other various industrial accidents have resulted in loss of lives, livelihood of families but also created an image crisis in the wider global world. 
